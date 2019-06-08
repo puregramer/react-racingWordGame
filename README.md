@@ -8,7 +8,7 @@
 - react-responsive-spritesheet
 
 ## demo
- - [데모버전 보기](https://puregramer.github.io/react-epub3-viewer/dist)
+ - [데모버전 보기](https://puregramer.github.io/react-racingWordGame/dist)
  
  ## notice
  - 해당 프로젝트는 flash로 개발된 레이싱 단어 게임을 html5버전으로 변환.
