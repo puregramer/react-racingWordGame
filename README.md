@@ -2,6 +2,7 @@
 
 ## Features
 - react
+- react-router
 - redux
 - greenSock animation platform (gsap)
 - webpack4
